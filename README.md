@@ -16,6 +16,9 @@
 
 </div>
 
+The Financial Management System is a comprehensive platform built with Next.js and TypeScript that allows users to securely manage their finances. It integrates with Plaid and Dwolla for bank account connections and funds transfer. With Appwrite for authentication and database management, the app offers a range of features to provide a seamless and intuitive financial management experience.
+
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
